@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cart-react/static/css/main.0c391207.css",
-    "main.js": "/cart-react/static/js/main.c57f2d4e.js",
+    "main.js": "/cart-react/static/js/main.518b31a2.js",
     "static/media/bannerImg.png": "/cart-react/static/media/bannerImg.828358f16fd653cfd71a.png",
     "static/media/i4.png": "/cart-react/static/media/i4.06849430188feeb36f99.png",
     "static/media/PostgreSQL.png": "/cart-react/static/media/PostgreSQL.b6ca9064ca797091c553.png",
@@ -78,10 +78,10 @@
     "static/media/codeigniter.png": "/cart-react/static/media/codeigniter.7dee10f9c7c79086c51d.png",
     "index.html": "/cart-react/index.html",
     "main.0c391207.css.map": "/cart-react/static/css/main.0c391207.css.map",
-    "main.c57f2d4e.js.map": "/cart-react/static/js/main.c57f2d4e.js.map"
+    "main.518b31a2.js.map": "/cart-react/static/js/main.518b31a2.js.map"
   },
   "entrypoints": [
     "static/css/main.0c391207.css",
-    "static/js/main.c57f2d4e.js"
+    "static/js/main.518b31a2.js"
   ]
 }
